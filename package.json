@@ -1,0 +1,17 @@
+{
+  "name": "dat-grid-javascript",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "webpack",
+    "test": "sh ./scripts/test.sh",
+    "postinstall": "tsd install"
+  },
+  "devDependencies": {
+    "ava": "^0.14.0",
+    "jsdom": "^8.5.0",
+    "ts-loader": "^0.8.2",
+    "tsd": "^0.6.5",
+    "typescript": "^1.8.10",
+    "webpack": "^1.13.0"
+  }
+}

@@ -1,0 +1,7 @@
+src
+tsconfig.json
+temp_src
+node_modules
+temp_src
+typings
+.idea
